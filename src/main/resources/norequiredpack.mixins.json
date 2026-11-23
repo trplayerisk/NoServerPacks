@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.norequiredpack.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["ClientCommonNetworkHandlerMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
